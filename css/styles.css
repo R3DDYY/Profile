@@ -1,0 +1,27 @@
+body {
+    background-color: #85CDFD;
+    }
+    hr{
+        border-style: none;
+        border-top-style: dotted;
+        border-width: 5px;
+        border-color: grey;
+        width: 50%;
+    }
+    img:hover{
+        height: 300px;
+        border-radius: 100%;
+
+    }
+    .circular{
+        height: 135px;
+        border-radius: 100%;
+        }
+        h2{
+            color: rgba(154, 5, 5, 0.423);
+        }
+        h1{
+            color: rgba(154, 5, 5, 0.423);
+        }
+
+    
